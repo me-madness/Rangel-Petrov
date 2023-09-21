@@ -1,6 +1,6 @@
-Hi, I am Rangel Petrov! ✌
+<h1>Hi, I am Rangel Petrov! ✌</h1>
 
-<h1>About me</h1>
+<h2>About me</h2>
 
 HTML
 CSS
