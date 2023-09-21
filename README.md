@@ -1,6 +1,6 @@
 Hi, I am Rangel Petrov! ✌
 
-About me
+<h1>About me</h1>
 
 HTML
 CSS
